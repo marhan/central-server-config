@@ -119,4 +119,4 @@ jhipster:
             enabled: false
             # edit spring.metrics.export.delay-millis to set report frequency
     swagger: # swagger is enabled. It can be disabled by pasing 'no-swagger' profile at run time as well
-        enabled: false
+        enabled: true
